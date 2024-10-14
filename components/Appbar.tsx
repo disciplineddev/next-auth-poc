@@ -12,7 +12,7 @@ const AppBar = () => {
             onClick={() => signOut()}
             className="text-white hover:text-gray-300 mr-4"
           >
-            Logout
+            Logout this is edited
           </button>
           <button
             onClick={() => signIn()}
